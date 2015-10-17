@@ -1,0 +1,10 @@
+Top: 	A+C+_B*_D+B*D
+TR: 	A+_B+_(CsumD)
+BR: 	A+B+D+_C
+B:	A+_B*(C+_D)+C*_D+B*_C*D
+BL:	_D*(_A*(_B+B*C)+A*_B*_C)
+TL:	A+B*(_C+_D)+_C*_D
+MID:	A+C*_D+BsumC
+
+AND:13
+OR:18
