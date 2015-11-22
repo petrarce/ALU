@@ -1,0 +1,9 @@
+1.Enable differentiation;
+2.Write Koefficient into memory;			
+3.Write degree into memory;
+4.loads koefficient into register from memory;
+5.loads degree into register from memory (if degree == 0 initiates interrupt of differentiating);
+6.finds new koeficient (NewK=K*degr);
+7.writes NewK into memory;
+8.Finds new degree(NewD=D-1);
+9.writes NewD into memory,GoTo 4;
