@@ -1,6 +1,0 @@
-1-(000) Start comdition. Enables division
-2-(001) Sets data into A and B registers. Clears C and n registers.
-3-(010) Shiftsh B and n registers
-4-(011) Refreshs A register (A=A-B) if its nessessary. Shifts C register
-5-(100) Shifts B and n registers
-6-(101) Buffer condition (before 3 or 4 conditions)
